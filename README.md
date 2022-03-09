@@ -1,3 +1,11 @@
+책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 DEVIEW 2017 from Taehoon Kim 님이 발표한 자료를 바탕으로 약간의 소스코드를 더하여 수정한 소스코드입니다. 자세한 구현 방법은 아래의 블로그 글에서 참고하시면 좋을 것 같습니다 :) 
+
+- DeepVoice 이용한 프로젝트 수행해보기
+	- [인공지능 deep voice를 이용한 TTS(음성합성) 구현하기 _ 손석희 앵커](http://melonicedlatte.com/machinelearning/2018/07/02/215933.html)
+	- [deep voice를 이용한 TTS(Text-To-Speech) 구현하기 _ 김앵커 한마디 학습](http://melonicedlatte.com/machinelearning/2018/07/09/141346.html)
+	- fork 한 원래 repository 주소 : [carpedm20/multi-speaker-tacotron-tensorflow](https://github.com/carpedm20/multi-speaker-tacotron-tensorflow)
+---
+
 # Multi-Speaker Tacotron in TensorFlow
 
 TensorFlow implementation of:
